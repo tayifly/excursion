@@ -12,8 +12,38 @@ h1 {
   text-align: center;
 }
 
-h2 {
+p {
   text-align: center;
   color: Aquamarine;
   font-size: 16px;
+}
+
+h1.Discover
+  {
+    font-size: 50px;
+}
+
+h1.travelguide
+  {
+    font-size: 42px;
+    font-weight: 300;
+
+  }
+
+h1.ComingSoon
+  {
+
+  }
+
+p.Excursion
+  {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+footer
+  {
+  text-align: right;
+  color: Gray;
 }
